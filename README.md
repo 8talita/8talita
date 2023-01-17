@@ -16,5 +16,4 @@
 
 ![Talita's GitHub stats](https://github-readme-stats.vercel.app/api?username=8talita&show_icons=true&theme=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8talita&langs_count=8)](https://github.com/8talita/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8talita&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
