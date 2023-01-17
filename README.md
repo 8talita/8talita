@@ -5,7 +5,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/Download)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://id.atlassian.com/manage-profile/profile-and-visibility)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/br/java/technologies/downloads/#java11-windows)
 
 * ### Contatos/Social
 
@@ -17,4 +16,4 @@
 
 ![Talita's GitHub stats](https://github-readme-stats.vercel.app/api?username=8talita&show_icons=true&theme=dark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8talita&langs_count=8)](https://github.com/8talita/github-readme-stats)
