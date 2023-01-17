@@ -1,4 +1,4 @@
-Olá! Eu sou Talita Santos 👋
+
 
 * ### Ferramentas TEC.
 
