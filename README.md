@@ -14,6 +14,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@talitapriscila6134/channels)
 
 
-![Talita's GitHub stats](https://github-readme-stats.vercel.app/api?username=8talita&show_icons=true&theme=dark)
+![Talita's GitHub stats](https://github-readme-stats.vercel.app/api?username=8talita&show_icons=true&theme=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8talita&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
