@@ -1,6 +1,6 @@
-## Olá , eu sou Talita Santos
+## Olá , eu sou Talita Santos!
 
-* ### Ferramentas TEC.
+* ### Ferramentas TEC
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/Download)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows)
