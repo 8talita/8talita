@@ -1,4 +1,4 @@
-## Olá , eu sou Talita Santos! Logo abaixo, meu portifólio:
+## Olá , eu sou Talita Santos! Eis o meu portifólio:
 
 * ### Ferramentas TEC
 
